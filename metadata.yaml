@@ -1,0 +1,31 @@
+_repo: The-Makers-of-Canada--Bishop-Laval_17174
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leblond, Adrien
+    aliases:
+    - De Brumath, Adrien Leblond
+    - Brumath, Adrien Leblond de
+    birthdate: 1854
+    deathdate: 1939
+    gutenberg_agent_id: '7194'
+    url: http://www.gutenberg.org/2009/agents/7194
+description: ''
+gutenberg_bookshelf: Canada
+gutenberg_issued: '2005-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17174'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'Laval, François de, 1623-1708'
+- !lcsh 'Canada -- History -- To 1763 (New France)'
+title: 'The Makers of Canada: Bishop Laval'
+url: http://www.gutenberg.org/ebooks/17174
